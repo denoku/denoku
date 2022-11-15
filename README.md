@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/9GIE4bg4EV7UYFeP5B/giphy.gif" width="600"  height="300" />
+  <img src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif" width="200" />
    <div id="badges">
   <a href="https://www.linkedin.com/in/brianwheeeler/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
