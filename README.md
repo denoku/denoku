@@ -27,6 +27,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/13GIgrGdslD9
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brianwheeeler/)
 
+Latest work: <a href="https://github.com/denoku/Carte">
+    <img src="https://img.shields.io/badge/Carte-red" alt="Carte Badge"/>
+  </a>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
