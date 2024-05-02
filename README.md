@@ -27,8 +27,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/13GIgrGdslD9
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brianwheeeler/)
 
-Latest work: <a href="https://github.com/denoku/Carte">
-    <img src="https://img.shields.io/badge/Carte-red" alt="Carte Badge"/>
+Latest work: <a href="https://github.com/denoku/auth-tutorial">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.MKFpnlCnp9Q6Uc6IIXvHpwAAAA%26pid%3DApi&f=1&ipt=e60c53bf9ddbbb5c24a5b2f5509f8eed4b7c919fa118e96e36bfd74d42015aa6&ipo=images" alt="Carte Badge" width="40" height="40"/>
   </a>
 
 ---
